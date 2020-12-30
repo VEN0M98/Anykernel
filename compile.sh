@@ -14,7 +14,7 @@ blink=$(tput blink)             # blink
 DATE_START=$(date +"%s")
 echo -e "${bldgrn}"
 
-zip -r9 Nexus-Q-lavender-old-V5.zip * -x .git README.md *placeholder
+zip -r9 Nexus-Q-lavender-old-V5.5.zip * -x .git README.md *placeholder
 
 
 echo "-------------------"
@@ -27,3 +27,11 @@ DATE_END=$(date +"%s")
 DIFF=$(($DATE_END - $DATE_START))
 echo "Time: $(($DIFF / 60)) minutes(i) and $(($DIFF % 60)) seconds."
 echo
+
+echo "███████╗███████╗███████╗████████╗ █████╗  █████╗ "
+echo "╚══███╔╝██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔══██╗"
+echo "  ███╔╝ █████╗  █████╗     ██║   ███████║███████║"
+echo " ███╔╝  ██╔══╝  ██╔══╝     ██║   ██╔══██║██╔══██║"
+echo "███████╗███████╗███████╗   ██║   ██║  ██║██║  ██║"
+echo "╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝"
+                                                 
