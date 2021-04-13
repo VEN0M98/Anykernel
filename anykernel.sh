@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Nexus-Q-lavender-old-V7
+kernel.string=neXus-Lavender-Hmp-X
 do.devicecheck=1
 do.modules=0
 do.systemless=1
