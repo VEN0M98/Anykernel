@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Tertis kernel v2 by believer
+kernel.string=neXus_kernel_alioth
 do.devicecheck=1
 do.modules=0
 do.systemless=1
